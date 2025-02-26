@@ -1,9 +1,9 @@
+flask
+flask-restful
+marshmallow
 yookassa
 python-dotenv
-flask
-Flask-RESTful
-marshmallow
+sqlalchemy
+requests
 celery
 redis
-flower
-python-telegram-bot
