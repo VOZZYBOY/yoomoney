@@ -68,8 +68,8 @@
 
     ```
     YOOKASSA_SHOP_ID=<ваш_shopId_из_ЮKassa>
-    YOOKASSA_SECRET_KEY=<ваш_секретный_ключ_из_ЮKassa>
-    TELEGRAM_BOT_TOKEN=<токен_вашего_Telegram_бота>
+    YOOKASSA_SECRET_KEY=<секретный_ключ_из_ЮKassa>
+    TELEGRAM_BOT_TOKEN=<токен_Telegram_бота>
     TELEGRAM_CHAT_ID=<ID_чата_Telegram>
     DATABASE_URL=sqlite:///payments.db
     CELERY_BROKER_URL=redis://localhost:6379/0
